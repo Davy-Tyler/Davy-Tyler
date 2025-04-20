@@ -35,7 +35,7 @@ I'm a passionate **Software Developer** who loves crafting innovative web and mo
 ### Hotel Eden Web App
 
 ![Image](https://github.com/user-attachments/assets/4e5691cf-62ac-463f-8daf-22101354997f)
-
+![Image](https://github.com/user-attachments/assets/6ac90fc2-4970-47a5-82b1-7d220b81225a)
 A full-stack hotel management web application built with **React**, **PHP**, and **SQL**. Features include room booking, newsletter subscriptions, and a responsive UI designed with **Adobe Photoshop**. This project showcases my skills in front-end and back-end development, as well as UI/UX design.  
 🔗 [Visit Website](https://hotel-eden.wuaze.com) | [View Repository](https://github.com/Davy-Tyler/hotel-eden)
 
