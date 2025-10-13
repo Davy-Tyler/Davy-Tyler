@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Davy Tyler!
 
-I'm a passionate **Software Developer** who loves crafting innovative web and mobile solutions. I specialize in building dynamic applications with **React** and **React Native**, and I bring creativity to my projects with skills in **Adobe Photoshop** and **Illustrator**. Currently, I'm working on enhancing my Hotel Eden web app (https://hotel-eden.wuaze.com), and I'm excited to share my journey with you! 🌟
-
+**Software Developer** who loves crafting innovative web and mobile solutions. I specialize in building dynamic applications with **React** and **React Native**, and I bring creativity to my projects with skills in **Adobe Photoshop** and **Illustrator**
 ---
 
 ## 🚀 About Me
 
-- 🔭 **Working on**: Enhancing my Hotel Eden web app (https://hotel-eden.wuaze.com)
+- 🔭 **Working on**: MalengoDreams rotating savings (upatu) platform
 - 🌱 **Learning**: Advanced React Native and modern JavaScript frameworks
 - 🤝 **Open to collaborate on**: Open-source projects in web and mobile development
 - 📫 **Reach me at**: davidsidame@gmail.com
