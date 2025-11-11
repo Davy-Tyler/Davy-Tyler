@@ -1,6 +1,4 @@
 # Hi there 👋, I'm Davy Tyler!
-
-**Software Developer** who loves crafting innovative web and mobile solutions. I specialize in building dynamic applications with **React** and **React Native**, and I bring creativity to my projects with skills in **Adobe Photoshop** and **Illustrator**
 ---
 
 ## 🚀 About Me
@@ -20,26 +18,21 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 
 *Want to see more? Check out my repositories!*
-
----
-
-## 💻 Featured Project
-
-### Hotel Eden Web App
-
-![Image](https://github.com/user-attachments/assets/4e5691cf-62ac-463f-8daf-22101354997f)
-![Image](https://github.com/user-attachments/assets/6ac90fc2-4970-47a5-82b1-7d220b81225a)
-A full-stack hotel management web application built with **React**, **PHP**, and **SQL**. Features include room booking, newsletter subscriptions, and a responsive UI designed with **Adobe Photoshop**. This project showcases my skills in front-end and back-end development, as well as UI/UX design.  
-🔗 [Visit Website](https://hotel-eden.wuaze.com) | [View Repository](https://github.com/Davy-Tyler/hotel-eden)
 
 ---
 
