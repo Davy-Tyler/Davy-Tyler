@@ -2,8 +2,6 @@
 ---
 
 ## 🚀 About Me
-
-- 🔭 **Working on**: MalengoDreams rotating savings (upatu) platform
 - 🌱 **Learning**: Advanced React Native and modern JavaScript frameworks
 - 🤝 **Open to collaborate on**: Open-source projects in web and mobile development
 - 📫 **Reach me at**: davidsidame@gmail.com
