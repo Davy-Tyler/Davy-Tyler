@@ -1,15 +1,6 @@
-# Hi there 👋, I'm Davy Tyler!
----
 
-## 🚀 About Me
-- 🌱 **Learning**: Advanced React Native and modern JavaScript frameworks
-- 🤝 **Open to collaborate on**: Open-source projects in web and mobile development
-- 📫 **Reach me at**: davidsidame@gmail.com
-- ⚡ **Fun fact**: I designed the UI for my Hotel Eden website using Photoshop before coding it!
 
----
-
-## 🛠️ My Skills
+## 🛠️ Hands on:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
