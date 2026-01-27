@@ -24,14 +24,6 @@
 *Want to see more? Check out my repositories!*
 
 ---
-
-## 📊 GitHub Stats
-
-![Davy-Tyler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davy-Tyler&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davy-Tyler&layout=compact&theme=radical)
-
----
-
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Davy-Tyler)
